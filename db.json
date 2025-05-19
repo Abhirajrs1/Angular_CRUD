@@ -1,0 +1,46 @@
+{
+    "creditcards":[
+        {
+            "id":1,
+            "cardName":"Bank of America - Platinum Card",
+            "bankName":"Bank of America",
+            "description":"Bank of America offers customers with varirty of options",
+            "active":true,
+            "annualFee":0,
+            "interestRate":13.5,
+            "intrOffer":200,
+            "recommentedCreditScore":"600-800",
+            "numberOfApplications":40,
+            "createDate":"28-08-2024",
+            "termsAndConditions":"The following conditions are applicable for this card"
+        },
+        {
+            "id":2,
+            "cardName":"Bank of India - Master Card",
+            "bankName":"Bank of India",
+            "description":"Bank of India offers customers with varirty of options",
+            "active":true,
+            "annualFee":25,
+            "interestRate":14.5,
+            "intrOffer":2000,
+            "recommentedCreditScore":"600-900",
+            "numberOfApplications":50,
+            "createDate":"30-08-2023",
+            "termsAndConditions":"The following conditions are applicable for this card"
+        },
+        {
+            "id":1,
+            "cardName":"Bank of Baroda - Platinum Card",
+            "bankName":"Bank of Baroda",
+            "description":"Bank of Baroda offers customers with varirty of options",
+            "active":true,
+            "annualFee":2,
+            "interestRate":12.5,
+            "intrOffer":100,
+            "recommentedCreditScore":"400-900",
+            "numberOfApplications":10,
+            "createDate":"08-08-2021",
+            "termsAndConditions":"The following conditions are applicable for this card"
+        }
+    ]
+}
